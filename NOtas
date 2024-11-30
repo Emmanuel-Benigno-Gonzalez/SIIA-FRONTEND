@@ -1,0 +1,25 @@
+Frontend REACT-TYPESCRIPT
+1-. Crear el Proyecto:
+$ npm create vite@latest
+    REACT
+    TYPESCRIPT + SWC
+2-. Ingresar al Proyecto (Ingresar a la carpeta del proyecto)
+$ npm install
+3-. Iniciar el Servidor Frontend
+$ npm run dev
+
+--------------------------------
+Dependencia de Desarrollo 
+$ npm install -D tailwindcss postcss autoprefixer
+
+Generar Achivos de Configuracion (Ver configuración proyecto UPTASK)
+$ npx tailwindcss init -p
+
+--------------------------------
+Dependencias 
+$ npm i react-router-dom
+$ npm i @headlessui/react @heroicons/react
+$ npm i react-hook-form
+$ npm i -D @types/node
+
+
